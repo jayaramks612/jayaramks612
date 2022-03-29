@@ -9,5 +9,9 @@ public class UserController {
 	public void print() {
 		System.out.println("in print method");
 	}
+	
+	public void walk() {
+		System.out.println("in walk method");
+	}
 
 }
