@@ -2,6 +2,8 @@ package com.example.department.controller;
 
 public class UserController {
 	
-	private String name;
+	public void show() {
+		System.out.println("in show method");
+	}
 
 }
